@@ -19,6 +19,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)&nbsp;
 
 ### Studying in this moment:
+![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=kotlin)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=swift)&nbsp;
