@@ -23,6 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=kotlin)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=swift)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)&nbsp;
 
 <div align="center">
     <br><p align="center"><b>Visitors Count</b></p>
