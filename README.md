@@ -16,13 +16,13 @@
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=swift)&nbsp;
 
 ### Studying in this moment:
+![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=kotlin)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=swift)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)&nbsp;
 
 <div align="center">
