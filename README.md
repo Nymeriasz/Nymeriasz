@@ -19,11 +19,11 @@
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=swift)&nbsp;
 
 ### Studying in this moment:
-![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=kotlin)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)&nbsp;
 
 <div align="center">
     <br><p align="center"><b>Visitors Count</b></p>
