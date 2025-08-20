@@ -9,16 +9,13 @@
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=swift)
 
 ### Studying in this moment:
+![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=kotlin)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)
 
 ### How to reach me:
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pamlla.m/)
